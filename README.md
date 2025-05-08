@@ -2,6 +2,7 @@
 This portfolio is a compilation of data science and analytics projects I have completed through academic coursework, self-learning, and real-world applications. This portfolio includes my certifications and skills. It is updated on a regular basis.
 
 Email: [ainnawahid@gmail.com](mailto:ainnawahid@gmail.com)
+
 LinkedIn: [linkedin.com/in/ainnawahid](https://www.linkedin.com/in/ainnawahid)
 
 ## Projects
