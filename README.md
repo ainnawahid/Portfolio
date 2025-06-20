@@ -12,13 +12,13 @@ Analyzed transactional data from a retail store using association rule mining. E
 ### [Analyzing Population Dynamics and Health Indicators in Malaysia](https://github.com/ainnawahid/Graduate-Projects/tree/main/Population%20Health)
 Explored demographic trends and public health indicators using national datasets. Conducted descriptive analysis and interactive visualizations to highlight state-level population growth, aging patterns, and mortality rates in Malaysia.
 
-### [Adidas US Sales Performance Dashboard (Power BI)](https://github.com/ainnawahid/Graduate-Projects/tree/main/Adidas)
+### [Sales Performance Dashboard (Power BI)](https://github.com/ainnawahid/Graduate-Projects/tree/main/Adidas)
 Developed a business intelligence dashboard to analyze Adidas’ sales, profit, and regional performance. Included time-series forecasting and profitability analysis to support decision-making for marketing, retail partnerships, and expansion strategy.
 
 ### [Amazon Review Clustering using Unsupervised Learning](https://github.com/ainnawahid/Graduate-Projects/tree/main/Customer%20Review%20Clustering)
 Applied K-Means, Hierarchical Clustering, and Gaussian Mixture Model on Amazon customer reviews to identify sentiment patterns and common concerns. Preprocessed text using TF-IDF and PCA. Achieved best cluster structure with K-Means (Silhouette Score: 0.5773).
 
-### [Olist E-commerce SQL & NoSQL Database Modeling](https://github.com/ainnawahid/Graduate-Projects/blob/main/SQL/ECommerce%20Data%20Modeling%20(SQL%20vs%20NoSQL).pdf)
+### [E-commerce SQL & NoSQL Database Modeling](https://github.com/ainnawahid/Graduate-Projects/blob/main/SQL/ECommerce%20Data%20Modeling%20(SQL%20vs%20NoSQL).pdf)
 Modeled a relational and document-based database for Olist, a Brazilian e-commerce platform. Created insights via SQL queries (joins, subqueries, indexes), then transformed the schema into MongoDB collections using embedded and reference designs.
 
 ## Certifications
