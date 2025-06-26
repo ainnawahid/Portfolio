@@ -22,7 +22,7 @@ Applied K-Means, Hierarchical Clustering, and Gaussian Mixture Model on Amazon c
 Modeled a relational and document-based database for Olist, a Brazilian e-commerce platform. Created insights via SQL queries (joins, subqueries, indexes), then transformed the schema into MongoDB collections using embedded and reference designs.
 
 ## Certifications
-1. Masters of Science (Data Science)
+1. Masters of Science (Data Science) | 2024
 2. The Complete SQL Bootcamp by Udemy | 2025
 3. CompTIA Security+ | 2024
 4. AWS Academy Machine Learning Foundations | 2024
